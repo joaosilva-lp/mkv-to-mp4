@@ -3,7 +3,7 @@
 
 
 Usage:<br>
-🔴 clone this repository through the command "git clone https://github.com/joaosilva-lp/mkv-to-mp4.git"
+🔴 clone this repository through the command "git clone https://github.com/joaosilva-lp/mkv-to-mp4.git"<br>
 🟡 rename your file to "movie.mkv" <br>
 🟢 on command line just type "node convertvideo.js"
 <br><br>
