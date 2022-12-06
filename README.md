@@ -1,5 +1,5 @@
 # mkv-to-mp4
-<h2>Script found arround the internet to convert video from MKV to MP4 format </h2>
+<h2>Script found around the internet to convert video from MKV to MP4 format </h2>
 
 
 Usage:<br>
